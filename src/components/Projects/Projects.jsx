@@ -14,7 +14,7 @@ const Projects = ({ darkMode }) => {
       title: "Medical-Web",
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, nulla!",
       image: medical,
-      tags: ["React", "Node.js", "MongoDB"],
+      tags: ["React", "Tailwind.css"],
       url: "https://recuperation-medical.vercel.app/",
     },
     {
@@ -22,7 +22,7 @@ const Projects = ({ darkMode }) => {
       title: "React-Dashboard",
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, nulla!",
       image: dashboard,
-      tags: ["React", "Node.js", "MongoDB"],
+      tags: ["React", "Tailwind.css"],
       url: "https://react-dashboard-mu-topaz.vercel.app/",
     },
 
@@ -47,7 +47,7 @@ const Projects = ({ darkMode }) => {
       title: "Resturant",
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, nulla!",
       image: project3,
-      tags: ["React", "Node.js", "MongoDB"],
+      tags: ["React", "Tailwind.css"],
       url: "https://craving-plaza.vercel.app/",
     },
     {
