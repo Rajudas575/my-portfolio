@@ -54,13 +54,12 @@ const Footer = ({ darkMode }) => {
             </a>
           </div>
           <div className="text-center md:text-right">
-              <p className="text-sm flex items-center justify-end
+            <p
+              className="text-sm flex items-center justify-end
               gap-1 text-[#6b7280] dark:text-[#9ca3af]">
-                @{currenYear} Made with <FaHeart className="text-red-500"/>
-                by <span className="mt-1 text-[#f9f516]">
-                    Raju Das
-                </span>
-              </p>
+              @{currenYear} Made with <FaHeart className="text-red-500" />
+              by <span className="mt-1 text-[#169ef9]">Raju Das</span>
+            </p>
           </div>
         </div>
       </div>
