@@ -9,10 +9,18 @@ import hi from "../../assets/hi.png";
 
 const Hero = ({ darkMode }) => {
   const socialIcons = [
-    { icon: linkedIn, alt: "LinkedIn" },
-    { icon: github, alt: "github" },
-    { icon: youtube, alt: "youtube" },
-    { icon: instagram, alt: "Instagram" },
+    {
+      icon: linkedIn,
+      alt: "LinkedIn",
+      url: "https://www.linkedin.com/in/raju-das-1a56a8105/",
+    },
+    { icon: github, alt: "github", url: "#" },
+    { icon: youtube, alt: "youtube", url: "#" },
+    {
+      icon: instagram,
+      alt: "Instagram",
+      url: "https://www.instagram.com/rajudas575/",
+    },
   ];
 
   const darkTheme = {
@@ -45,7 +53,7 @@ const Hero = ({ darkMode }) => {
               {socialIcons.map((social, index) => (
                 <a
                   key={index}
-                  href="#"
+                  href={social.url}
                   target="_blank"
                   data-aos-delay={`${400 + index * 100}`}
                   className="transform hover:scale-110 transition-transform duration-300">
