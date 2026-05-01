@@ -31,7 +31,7 @@ const Projects = ({ darkMode }) => {
       title: "E-commerce Platform",
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, nulla!",
       image: project1,
-      tags: ["React", "Node.js", "MongoDB"],
+      tags: ["React", "Typescript", "Node.js", "MongoDB"],
       url: "https://choice-zone-czo6.vercel.app/",
     },
     {

@@ -1,7 +1,7 @@
-import instagram from "../../assets/instagram.png";
-import github from "../../assets/github-icon-removebg-preview.png";
-import youtube from "../../assets/youTb-removebg-preview.png";
-import linkedIn from "../../assets/linkedin-removebg-preview.png";
+import instagram from "../../assets/medias/instagram.png";
+import github from "../../assets/medias/github_f.png";
+import youtube from "../../assets/medias/youtub_f.png";
+import linkedIn from "../../assets/medias/linkedin_f.png";
 import CV from "../../assets/cv.pdf";
 import { DownloadIcon, Mail } from "lucide-react";
 import hero from "../../assets/hero.png";
