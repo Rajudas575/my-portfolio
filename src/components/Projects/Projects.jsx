@@ -21,7 +21,7 @@ const Projects = ({ darkMode }) => {
       id: 1,
       title: "React-Dashboard",
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, nulla!",
-      image: React dashboard,
+      image: dashboard,
       tags: ["React", "Tailwind.css"],
       url: "https://react-dashboard-mu-topaz.vercel.app/",
     },
