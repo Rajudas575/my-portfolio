@@ -21,14 +21,14 @@ const Projects = ({ darkMode }) => {
       id: 1,
       title: "React-Dashboard",
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, nulla!",
-      image: dashboard,
+      image: React dashboard,
       tags: ["React", "Tailwind.css"],
       url: "https://react-dashboard-mu-topaz.vercel.app/",
     },
 
     {
       id: 1,
-      title: "E-commerce Platform",
+      title: "MERN E-commerce Platform",
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, nulla!",
       image: project1,
       tags: ["React", "Node.js", "MongoDB"],
@@ -36,7 +36,7 @@ const Projects = ({ darkMode }) => {
     },
     {
       id: 2,
-      title: "Employee Management System",
+      title: "MERN Employee Management System",
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, nulla!",
       image: project2,
       tags: ["React", "Node.js", "MongoDB"],
@@ -44,7 +44,7 @@ const Projects = ({ darkMode }) => {
     },
     {
       id: 3,
-      title: "Resturant",
+      title: "React Resturant",
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, nulla!",
       image: project3,
       tags: ["React", "Tailwind.css"],
@@ -52,7 +52,7 @@ const Projects = ({ darkMode }) => {
     },
     {
       id: 4,
-      title: "Book-Store",
+      title: "React Book-Store",
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, nulla!",
       image: project4,
       tags: ["React", "Tailwind.css"],
