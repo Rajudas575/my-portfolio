@@ -11,7 +11,7 @@ const Projects = ({ darkMode }) => {
   const projects = [
     {
       id: 1,
-      title: "Medical-Web",
+      title: "React Medical-Web",
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, nulla!",
       image: medical,
       tags: ["React", "Tailwind.css"],
